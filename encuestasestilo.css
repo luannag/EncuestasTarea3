@@ -1,0 +1,46 @@
+body{
+	background:  url( '../img/Bandera.png' ) repeat;
+}
+
+#contenedor{
+	width: 80%;
+	height: 150%;
+	background-color: white;
+	margin: 0px auto 0px auto;
+	padding: 5px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 1px;
+}
+
+img{
+width: 40%;
+}
+
+
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+a {
+  color: black;
+}
+
+#temas{
+	width: 35%;
+	height: 690px;
+	float: right;
+}
+
+#articulos{
+	width: 60%;
+	height: 690px;
+	float: left;
+	padding-left: 20px;
+	margin: 0px auto 0px auto;
+}
+
+#pie{
+	width:100%;
+}
