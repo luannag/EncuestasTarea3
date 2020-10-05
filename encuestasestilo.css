@@ -1,5 +1,5 @@
 body{
-	background:  url( 'Bandera.png' ) repeat;
+	background:  url( ../'Bandera.png' ) repeat;
 }
 
 #contenedor{
